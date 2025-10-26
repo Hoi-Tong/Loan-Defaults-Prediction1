@@ -1,4 +1,4 @@
-# Loan Defaults Prediction
+# Riskify
 
 ## Project Overview
 
